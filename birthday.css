@@ -65,3 +65,7 @@ video {
     /*position: absolute;*/
     /*margin-top: -600px;*/
 }
+
+.with-iframe {
+    -webkit-overflow-scrolling:touch;
+}
